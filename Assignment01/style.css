@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-btn
+{
+    text-decoration: none;
+    background-color: rgb(19, 154, 182);
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+.icon{
+    width: 80px;
+    height: auto;
+}
+.menu-container{
+    display: flex;
+}
+.bnr-text{
+    color: aqua;
+    font-weight: bold;
+}
+.banner-container
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+}
+.right-bnr
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+}
+.icon-bnr
+{
+    color: aqua;
+}
+/* Banner Icon  */
+.icn{
+    text-decoration: none;
+    color: aqua;
+    font-size: 24px;
+}
+.btn-bnr
+{
+    font-size: 16px;
+    width: 90px;
+    height: 30px;
+    padding: 0;
+    border: none;
+    min-height: 0px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+/* portfolio  */
+.portfolio
+{
+    font-weight: bold;
+}
+.box-text{
+    font-weight: bold;
+    color: aqua;
+}
+.box-item{
+    padding: 5px;
+    margin: 0 100px;
+}
+/* skills text  */
+.skill-text
+{
+    color: aqua;
+    font-weight: bold;
+}
+.txt
+{
+    font-weight: bold;
+    text-align: center;
+}
+.skills-items
+{
+    padding: 5px;
+    margin: 0 100px;
+}
+.right-items{
+    padding-top: 100px;
+    margin-top: 150px;
+}
+.form-container
+{
+    padding: 50px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 4px 4px 8px gray;
+    text-align: center;
+    margin-top: 30px;
+    min-height: 350px;
+    text-align: center;
+
+}
+.input-box{
+    width: 50%;
+    padding: 10px;
+    text-align: left;
+}
+.messages{
+    width: 60%;
+    padding: 10px;
+    height: 70%;
+}
+
+.btn-frm
+{
+    display: block;
+    border-radius: 0%;
+    width: 1000%;
+    padding: 10px 20px;
+    color: rgb(95, 235, 221);
+    font-weight: bold;
+    margin: 0 auto;
+    text-decoration: none;
+    background-color: rgb(137, 137, 143);
+    border: none;
+}
+/* footer */
+.text-ftr
+{
+    text-align: center;
+}
+.logo-ftr
+{
+    text-align: center;
+}
+.icn-ftr
+{
+    text-decoration: none;
+    color: aqua;
+    text-align: center;
+    font-size: 24px;
+    /* display: inline-block; */
+    justify-content: center;
+    padding: 10px;
+}
